@@ -1,8 +1,10 @@
 <div dir="rtl">
+
 چگونه یک سرویس پردازشی ساده بسازیم؟
 ====
 
 <div align="center">
+
 ![Big Picture](docs/figures/ccloud.png)
 
 <div align="right">
