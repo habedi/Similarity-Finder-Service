@@ -30,6 +30,17 @@
 
 ### نصب و راه اندازی Python3
 
+می‌توانید با اجرای دستور‌های زیر در Terminal پایتون ۳ و IDE آن بنام IDLE را نصب کنید.
+
+<div align="left">
+
+```Bash
+sudo apt-get install -y python3-pip idle3 bpython3
+```
+
+![IDLE3](docs/figures/idle3.png)
+
+<div align="right">
 ### نصب Flask و بقیه Packageهای مورد نیاز
 
 ### ساختن Virtual Environment
