@@ -35,7 +35,7 @@
 <div align="left">
 
 ```Bash
-sudo apt-get install -y python3-pip idle3 bpython3
+sudo apt-get install -y python3-pip idle3 bpython3 python3-virtualenv
 ```
 
 ![IDLE3](docs/figures/idle3.png)
