@@ -39,6 +39,7 @@ sudo apt-get install -y python3-pip idle3 bpython3 python3-virtualenv
 ```
 
 <div align="center">
+
 ![IDLE3](docs/figures/idle3.png)
 
 <div align="right">
