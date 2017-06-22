@@ -43,16 +43,19 @@ sudo apt-get install -y python3-pip idle3 bpython3 python3-virtualenv
 ![IDLE3](docs/figures/idle3.png)
 
 <div align="right">
+
 ### ساختن Virtual Environment
 
 با اجرای دستور زیر درون Terminal یک Python Virtual Environment بسازید.
 
 <div align="left">
+
 ```Bash
 virtualenv -p python3 venv # venv is the folder where VE is located in
 ```
 
 <div align="right">
+
 شما می‌توانید با اجرای این دستور در وارد محیط Virtual Environment ای که ساخته اید شوید.
 
 <div align="left">
@@ -66,6 +69,7 @@ source ./venv/bin/activate
 ![VENV](docs/figures/venv.png)
 
 <div align="right">
+
 ### نصب Flask و بقیه Packageهای مورد نیاز
 
 برای نصب بقیه Package های پایتونی که برای کار ما لازم هستند دستور زیر را در Terminal مربوط به Virtual Environment ای که ساخته اید اجرا کنید.
@@ -81,6 +85,7 @@ pip install -U -r requirements.txt
 ![REQUIREMENTS](docs/figures/requirements.png)
 
 <div align="right">
+
 ### معرفی سرویس هش رشته‌های حرفی(SimilarityFinder)
 
 ### طراحی سرویس SimilarityFinder
